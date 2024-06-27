@@ -18,9 +18,13 @@ or https://github.com/ByungjunKim/CRKMLS
 
 **how?** 문자열 유사도(편집거리) 라이브러리 활용
 
+
 * 통일화된 제목 부여 성능 실험(정성적 평가 중심)
+
   a. PolyFuzz
+
   b. RapidFuzz(최종 선정)
+
 
 * scorer, threshold의 하이퍼 파라미터 튜닝
   * 튜닝 시 고려한 사례
