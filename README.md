@@ -5,9 +5,9 @@
 
 : 서지 정보 식별 자동화 알고리즘 개발 후 최우선적으로 활용하려는 학술 데이터베이스
 
-참고: https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
+참고: https://github.com/ByungjunKim/CRKMLS
 
-or https://github.com/ByungjunKim/CRKMLS
+or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
  * 본 데이터베이스는 연구자 인용 데이터를 통한 학계의 동향 파악을 위해 활용되었음
 
    * 특정 연구자가 어떻게 이해되고 수용되었는지 파악함
