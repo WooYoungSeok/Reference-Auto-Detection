@@ -36,7 +36,7 @@ or https://github.com/ByungjunKim/CRKMLS
     b. 동일한 문헌인데, 제목 내 띄어쓰기만 다른 경우
 
     c. 연속 간행물(예: 1권, 2권, ...)
-
+  * 최종 선정: token_sort_ratio, 85
 
 ## 3. 국립중앙도서관 LOD 매칭
 
