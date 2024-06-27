@@ -9,6 +9,7 @@
 
 or https://github.com/ByungjunKim/CRKMLS
  * 본 데이터베이스는 연구자 인용 데이터를 통한 학계의 동향 파악을 위해 활용되었음
+
    * 특정 연구자가 어떻게 이해되고 수용되었는지 파악함
    * 인구사회학적 배경이 학계 동향에 미친 영향 통계적으로 검정함
 
@@ -36,6 +37,7 @@ or https://github.com/ByungjunKim/CRKMLS
     b. 동일한 문헌인데, 제목 내 띄어쓰기만 다른 경우
 
     c. 연속 간행물(예: 1권, 2권, ...)
+    
   * 최종 선정: token_sort_ratio, 85
 
 ## 3. 국립중앙도서관 LOD 매칭
