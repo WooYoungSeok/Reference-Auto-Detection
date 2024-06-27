@@ -19,14 +19,16 @@ or https://github.com/ByungjunKim/CRKMLS
 **how?** 문자열 유사도(편집거리) 라이브러리 활용
 
 
-* 통일화된 제목 부여 성능 실험(정성적 평가 중심)
+
+* 통일화된 제목 부여 성능 실험(정성적 평가)
 
   a. PolyFuzz
 
-  b. RapidFuzz(최종 선정)
+  b. RapidFuzz - **최종 선정**
 
 
-* scorer, threshold의 하이퍼 파라미터 튜닝
+
+* scorer, threshold의 하이퍼 파라미터 튜닝(정성적 평가)
   * 튜닝 시 고려한 사례
  
     a. 동일한 문헌인데, 제목 내 문장 부호만 다른 경우
@@ -34,6 +36,7 @@ or https://github.com/ByungjunKim/CRKMLS
     b. 동일한 문헌인데, 제목 내 띄어쓰기만 다른 경우
 
     c. 연속 간행물(예: 1권, 2권, ...)
+
 ---
 3. 국립중앙도서관 LOD 매칭
 ---
