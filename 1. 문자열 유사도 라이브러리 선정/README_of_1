@@ -5,6 +5,7 @@
 
 1.https://github.com/MaartenGr/PolyFuzz
 성능 아쉬움(아래 예시의 경우 1990가 등장하는 title 다 묶어버림)
+(https://github.com/WooYoungSeok/Reference-Auto-Detection/assets/138356414/1bcebcfb-fa91-4de9-94ce-e88cc6f303b4)
 
 2.https://github.com/rapidfuzz/RapidFuzz
 GPT가 속도와 성능 면에서 가장 추천한 라이브러리
