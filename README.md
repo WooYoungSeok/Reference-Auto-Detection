@@ -3,10 +3,11 @@ Linked Open Data(LOD)와 자연어처리를 활용한 학술 데이터베이스 
 
 1. 연구 데이터
 https://docs.google.com/spreadsheets/d/1CC69XtooihQurCSjyqPyu721LvQfNutS/edit?usp=sharing&ouid=102864613966848491919&rtpof=true&sd=true 
+
 참고: https://byungjunkim.com/publication/2022-03-31-paper-title-number-12 
-* 연구자 인용 데이터를 통한 학계의 동향 파악
-  * 특정 연구자가 어떻게 이해되고 수용되었는지 파악
-  * 인구사회학적 배경이 학계 동향에 미친 영향 통계적으로 검정
+ * 연구자 인용 데이터를 통한 학계의 동향 파악
+   * 특정 연구자가 어떻게 이해되고 수용되었는지 파악
+   * 인구사회학적 배경이 학계 동향에 미친 영향 통계적으로 검정
 
 2. author disambiguation
 : 참고문헌 목록 안에서 같은 문헌을 가리키는 걸 합치기
