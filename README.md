@@ -26,7 +26,8 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 
   b. RapidFuzz - **최종 선정**
 
-*  
+<br/>
+<br/>
 
 * scorer, threshold의 하이퍼 파라미터 튜닝(정성적 평가)
   * 튜닝 시 고려한 사례
