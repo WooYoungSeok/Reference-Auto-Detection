@@ -17,15 +17,15 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 
 : 참고문헌 목록 안에서 같은 문헌을 가리키는 경우 통일화된 제목 부여
 
-**how?** 문자열 유사도(편집거리) 라이브러리 활용
-&nbsp;
-&nbsp;
+**how?** 문자열 유사도(편집거리) 라이브러리 활용  
+
 
 * 통일화된 제목 부여 성능 실험(정성적 평가)
 
   a. PolyFuzz
 
-  b. RapidFuzz - **최종 선정**
+  b. RapidFuzz - **최종 선정**  
+
 
 
 
@@ -40,9 +40,12 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
     
   * 최종 선정: token_sort_ratio, 70
  
+ 
   * 통일화 결과
     * 원본 제목의 종류: 12817개
     * 통일화된 제목의 종류: 8064개
+   
+      
 
  
 * 통일화된 제목 기준 id 값 부여
@@ -51,6 +54,8 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
     a. 통일화된 제목 구분을 위해
 
     b. 사람이 검수하여 참고문헌 데이터베이스를 정리할 수 있도록 만들기 위해)
+
+  
 
 > LLM을 통한 '2. 동일 문헌 식별 및 통일화' 시도
 >> 프로젝트 코드 파일 제공 시 동일 작업 가능
