@@ -47,7 +47,7 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
    
 <br/>
  
-* 통일화된 제목 기준 id 값 부여
+* 통일화된 제목 기준으로 id 값 부여
 (  * 목적
 
     a. 통일화된 제목 구분을 위해
