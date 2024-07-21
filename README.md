@@ -18,8 +18,7 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 : 참고문헌 목록 안에서 같은 문헌을 가리키는 경우 통일화된 제목 부여
 
 **how?** 문자열 유사도(편집거리) 라이브러리 활용
-
-
+&nbsp;
 
 * 통일화된 제목 부여 성능 실험(정성적 평가)
 
