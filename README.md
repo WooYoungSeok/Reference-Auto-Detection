@@ -13,7 +13,7 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
    * 특정 연구자가 어떻게 이해되고 수용되었는지 파악함
    * 인구사회학적 배경이 학계 동향에 미친 영향 통계적으로 검정함
 
-## 2. author disambiguation
+## 2. 동일 문헌 식별 및 통일화
 
 : 참고문헌 목록 안에서 같은 문헌을 가리키는 경우 통일화된 제목 부여
 
