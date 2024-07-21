@@ -26,6 +26,7 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 
   b. RapidFuzz - **최종 선정**
 
+*  
 
 * scorer, threshold의 하이퍼 파라미터 튜닝(정성적 평가)
   * 튜닝 시 고려한 사례
@@ -37,13 +38,13 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
     c. 연속 간행물(예: 1권, 2권, ...)
     
   * 최종 선정: token_sort_ratio, 70
- 
+*   
  
   * 통일화 결과
     * 원본 제목의 종류: 12817개
     * 통일화된 제목의 종류: 8064개
    
-  
+*    
  
 * 통일화된 제목 기준 id 값 부여
 (  * 목적
@@ -52,7 +53,7 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 
     b. 사람이 검수하여 참고문헌 데이터베이스를 정리할 수 있도록 만들기 위해)
 
-  
+*    
 
 > LLM을 통한 '2. 동일 문헌 식별 및 통일화' 시도
 >> 프로젝트 코드 파일 제공 시 동일 작업 가능
