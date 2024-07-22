@@ -60,4 +60,5 @@ or https://byungjunkim.com/publication/2022-03-31-paper-title-number-12
 
 > LLM을 통한 '2. 동일 문헌 식별 및 통일화' 시도
 >> 프로젝트 코드 파일 제공 시 동일 작업 가능
+>> 
 >> 단, 최적의 라이브러리를 사용하지 못함
